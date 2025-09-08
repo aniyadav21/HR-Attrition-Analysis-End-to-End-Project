@@ -65,13 +65,7 @@ The project is implemented in **two stages**:
 - **Overtime Impact:** Employees working overtime have a significantly higher attrition rate.  
 
 ---
+## 📷 **Dashboard Preview**
 
-## 📂 **Files in Repository**
-- `hr_attrition_eda.ipynb` – Jupyter Notebook for EDA using Python  
-- `HR_Attrition.pbix` – Power BI dashboard  
-- `HR_Attrition_Report.pdf` – Dashboard export with insights  
-- `Dashboard_Screenshot.png` – Preview of the dashboard  
-- `Dataset.csv` – Cleaned dataset  
-- `README.md` – This documentation  
-
----
+<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/39cbf5d7-0aab-4f9d-b02e-28e87152b9de" />
+<img width="1366" height="768" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/4294c954-0548-40b7-82fd-707038e3060f" />
